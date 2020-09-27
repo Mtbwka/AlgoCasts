@@ -18,7 +18,7 @@
       "runtimeArgs": [
         "--inspect-brk",
         "/Users/buran/.nvm/versions/node/v10.20.1/bin/jest",
-        "exercises/$EXERCISE/test.js",
+        "exercises/fib/test.js",
         "--runInBand"
       ],
       "internalConsoleOptions": "neverOpen",
